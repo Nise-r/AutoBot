@@ -1,0 +1,164 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi", "Hello", "Hey", "Good morning", "Good evening",
+        "Howdy", "Hi there", "Hey, what's up?", "Good afternoon", "Hello, anyone there?", 
+        "Hey there", "Greetings", "What's up?", "Yo", "Is anyone here?", "Hey bot"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?", "Hi there! What car would you like to know about?", 
+        "Hey! Looking for information on a car?", "Good to see you! How can I help with your car search?",
+        "Hi! How can I assist with your car needs?", "Hey! What car info are you looking for?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye", "Goodbye", "See you later", "I'm leaving", "Catch you later", "Talk to you soon", 
+        "See ya", "Take care", "Later!", "I'm off", "Peace out"
+      ],
+      "responses": [
+        "Goodbye! Let me know if you need more car info later.", "See you soon!", 
+        "Take care! Let me know if you have more questions about cars.", 
+        "Bye! Feel free to come back anytime!", "Goodbye! Hope to chat with you again soon."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you", "Thanks", "Appreciate it", "Thanks a lot", "Much appreciated", 
+        "Thanks for the help", "I appreciate your help", "Thanks, you've been helpful", 
+        "You're a lifesaver", "I owe you one"
+      ],
+      "responses": [
+        "You're welcome!", "Glad to help with your car inquiries!", 
+        "No problem, feel free to ask if you have more questions!", "You're welcome, anytime!", 
+        "Happy to help!", "My pleasure, feel free to ask more questions!"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "show_cars",
+      "patterns": [
+        "Show me some cars", "Can you list some cars?", "What cars do you have?", 
+        "I want to see some car options", "List the cars available", "What are my car choices?", 
+        "What cars are in stock?", "Can I see some car options?", "Which cars are available?", 
+        "Display the cars you have"
+      ],
+      "responses": [
+        "Here are a few options: ", 
+         
+        "We have options like:", 
+        "Here are some popular cars: ", 
+        "You can choose from these models: "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "buy_car",
+      "patterns": [
+        "Where can I buy this car?", "Where can I purchase this car?", "Buy car", 
+        "How can I buy this car?", "Where do I get this car?", "Where is this car sold?", 
+        "Which dealership sells this car?", "Where can I find this car for sale?", 
+        "How do I purchase this car?", "Where can I buy this model?"
+      ],
+      "responses": [
+        "You can buy this car at ", 
+        "This car is available at ", 
+        "You can purchase this car from ", 
+        "This car is sold at ", 
+        "You can find this car at "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "car_price",
+      "patterns": [
+        "What’s the price of this car?", "How much does this car cost?", "Car price details", 
+        "Can you tell me the price of this car?", "How much is this car?", "What's the price?", 
+        "What's the cost of this model?", "Give me the price of this car", "How much is this model?"
+      ],
+      "responses": [
+        "The price of this car is ", 
+        "This car costs ", 
+        "The price is ", 
+        "This car is priced at ", 
+        "This model is available for "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "car_details",
+      "patterns": [
+        "Give me details about this car", "Tell me more about this car", "Car specifications", 
+        "What are the specs of this car?", "I need details on this car", "What features does this car have?", 
+        "What is the engine capacity of this car?", "What is the mileage of this car?", 
+        "I want to know more about this car", "What are the details of this car?"
+      ],
+      "responses": [
+        "Some features are: "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "car_speed",
+      "patterns": [
+        "What is the top speed of this car?", "How fast is this car?", "Car speed", 
+        "Tell me the speed of this car", "What is the max speed of this car?", "How fast can this car go?", 
+        "What is the maximum speed?", "What is the car’s top speed?", "How quickly can this car reach top speed?"
+      ],
+      "responses": [
+        "The top speed of this car is ", 
+        "This car can reach a top speed of ", 
+        "It has a top speed of ", 
+        "The max speed of this car is ", 
+        "This car's top speed is "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "garbage",
+      "patterns": [
+        "banana", "bla bla ", "who is the prime minister of india?", 
+        "solve this problem for me", "tell me about latest news.", "casablancas", 
+        "stereo love", "daft punk the strokes", "beethoven moonlit sonata",
+        "Why is the sky blue?", "Do penguins have knees?", "What if unicorns existed?", "How do I train my cat?", 
+        "Is cereal a soup?","Tell me about time travel.","Can you make me a sandwich?", 
+        "What would you do with a million dollars?","Why do we dream?", "What is your favorite dinosaur?", 
+        "Do aliens like pizza?", "How many marshmallows fit in a car?",  "What’s the best way to catch a cloud?", 
+        "Why do socks disappear in the laundry?", "What is the secret to happiness?", "How do I speak dolphin?", 
+        "Can you juggle flaming swords?", "What’s the fastest way to Mars?",  "Why do we have seasons?", 
+        "Can you invent a new color?", "What’s the most bizarre fruit?","If animals could talk, what would they say?", 
+        "How do you bake a cake in space?","What’s your favorite conspiracy theory?", "Why do we laugh?", 
+        "What’s the meaning of spaghetti?","bananas", 
+    "asdkjd", 
+    "sd aka", 
+    "has d ska d", 
+    "stand asl", 
+    "flibberty floo", 
+    "wobble dee bop", 
+    "zingle zangle", 
+    "plonk whirf", 
+    "snarfle blorp", 
+    "kreeble froo", 
+    "doodle bop", 
+    "jibber jabber", 
+    "gloobity gloop", 
+    "frizzle fraz", 
+    "narfle womp", 
+    "squiggle wiggle", 
+    "dingle berry", 
+    "boopity bop", 
+    "higgledy piggledy"
+      ],
+      "responses": [
+        "Please keep the queries related to car only"
+      ],
+      "context_set": ""
+    }
+  ]
+}

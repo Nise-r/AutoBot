@@ -1,0 +1,92 @@
+{
+    "tesla model s": {
+        "price": "$85,000",
+        "speed": "200 mph",
+        "location": "Tesla Store",
+        "details": "Electric, Autopilot, 396 miles range"
+    },
+    "bmw 3 series": {
+        "price": "$41,250",
+        "speed": "155 mph",
+        "location": "BMW Dealerships",
+        "details": "Gasoline, Rear-wheel drive, 382 hp"
+    },
+    "audi a8": {
+        "price": "$86,500",
+        "speed": "155 mph",
+        "location": "Audi Dealerships",
+        "details": "Gasoline, Quattro all-wheel drive, 453 hp"
+    },
+    "mercedes-benz e-class": {
+        "price": "$54,950",
+        "speed": "130 mph",
+        "location": "Mercedes Dealerships",
+        "details": "Gasoline, 4MATIC all-wheel drive, 255 hp"
+    },
+    "ford mustang": {
+        "price": "$27,205",
+        "speed": "155 mph",
+        "location": "Ford Dealerships",
+        "details": "Gasoline, Rear-wheel drive, 450 hp"
+    },
+    "chevrolet corvette": {
+        "price": "$60,900",
+        "speed": "194 mph",
+        "location": "Chevrolet Dealerships",
+        "details": "Gasoline, Rear-wheel drive, 495 hp"
+    },
+    "porsche 911": {
+        "price": "$101,200",
+        "speed": "182 mph",
+        "location": "Porsche Dealerships",
+        "details": "Gasoline, Rear-wheel drive, 379 hp"
+    },
+    "honda civic": {
+        "price": "$21,250",
+        "speed": "130 mph",
+        "location": "Honda Dealerships",
+        "details": "Gasoline, Front-wheel drive, 158 hp"
+    },
+    "toyota camry": {
+        "price": "$25,045",
+        "speed": "135 mph",
+        "location": "Toyota Dealerships",
+        "details": "Gasoline, Front-wheel drive, 203 hp"
+    },
+    "nissan gt-r": {
+        "price": "$113,540",
+        "speed": "205 mph",
+        "location": "Nissan Dealerships",
+        "details": "Gasoline, All-wheel drive, 565 hp"
+    },
+    "lamborghini huracan": {
+        "price": "$261,274",
+        "speed": "202 mph",
+        "location": "Lamborghini Showrooms",
+        "details": "Gasoline, All-wheel drive, 630 hp"
+    },
+    "ferrari 488": {
+        "price": "$280,900",
+        "speed": "211 mph",
+        "location": "Ferrari Showrooms",
+        "details": "Gasoline, Rear-wheel drive, 661 hp"
+    },
+    "mazda cx-5": {
+        "price": "$26,700",
+        "speed": "130 mph",
+        "location": "Mazda Dealerships",
+        "details": "Gasoline, All-wheel drive, 187 hp"
+    },
+    "hyundai kona": {
+        "price": "$21,300",
+        "speed": "120 mph",
+        "location": "Hyundai Dealerships",
+        "details": "Gasoline, Front-wheel drive, 147 hp"
+    },
+    "kia stinger": {
+        "price": "$36,090",
+        "speed": "167 mph",
+        "location": "Kia Dealerships",
+        "details": "Gasoline, All-wheel drive, 368 hp"
+    }
+}
